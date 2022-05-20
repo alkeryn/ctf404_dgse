@@ -1,0 +1,49 @@
+1
+
+1	RIRI	0145489625	5 avenue des groseilles	OpérationEpervier
+2	FIFI	0145889625	1 rue des myrtilles	OpérationFaucon
+3	LOULOU	0115789625	1 rue des pommes	OpérationFaucon
+456	JAJA	0145769625	1 rue des pommes	OpérationGorfou
+472	RORO	0189999625	5 boulevard des poires	OpérationFaucon
+7456	TITI	404CTF{0145769456}	404CTF{21 rue des kiwis}	OpérationGorfou
+7865	DEDE	0145781225	3 avenue des oranges	OpérationMouette
+16579	DIDI	0145789625	1 rue des pommes	OpérationEpervier
+
+2
+
+DEDE	Collaboration des négociants de minerais de Franche-Comté
+DIDI	Association des vendeurs d'or de France
+FIFI	Corporation des fournisseurs de pierres précieuses d'Île-de-France
+JAJA	Regroupement des marchands de joyaux d'Ille-et-Vilaine
+LOULOU	Association des vendeurs d'or de France
+RIRI	Association des vendeurs d'or de France
+RORO	Corporation des fournisseurs de pierres précieuses d'Île-de-France
+TITI	Regroupement des marchands de joyaux d'Ille-et-Vilaine
+
+3
+
+OpérationEpervier	2021-11-02	19h
+OpérationMouette	2021-09-14	19h
+OpérationFaucon	2022-01-01	20h
+OpérationGorfou	404CTF{2022-07-14}	404CTF{01hDuMatin}
+
+
+nom prenom
+404CTF{Vereux} 404CTF{UnGorfou}
+
+date heure
+404CTF{2022-07-14} 404CTF{01hDuMatin}
+
+telephone rue
+404CTF{0145769456} 404CTF{21 rue des kiwis}
+
+mdp
+
+404CTF{GorfousAuPouvoir}
+
+
+
+404CTF{NomPrénomTéléphoneAdresseDateHeureMdp}
+
+
+404CTF{VereuxUnGorfou014576945621ruedeskiwis2022-07-1401hDuMatinGorfousAuPouvoir}
