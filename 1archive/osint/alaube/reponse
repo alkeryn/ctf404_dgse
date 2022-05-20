@@ -1,0 +1,2 @@
+#!bash
+echo CTF404{$(echo -n montee-saint-barthelemy | md5sum | cut -d" " -f1 )}
