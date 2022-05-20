@@ -1,0 +1,9 @@
+#!python
+mdp = "4/2@PAu<+ViNgg%^5NS`#J\u001fNK<XNW(_"
+
+str2 = ""
+for i in range(0,len(mdp)):
+    str2 = str2 + chr((ord(mdp[i]) + i) % 128)
+
+print(str2)
+
