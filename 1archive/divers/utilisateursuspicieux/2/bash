@@ -1,0 +1,6 @@
+echo ./*
+while read A;do echo $A;done < flag.txt
+
+Result:
+
+404CTF{17_s_4g155417_3n_f4iT_d_1_b0t}

