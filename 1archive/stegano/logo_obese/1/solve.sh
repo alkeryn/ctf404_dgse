@@ -1,1 +1,2 @@
+#!bash
 unzip ./steg.png
