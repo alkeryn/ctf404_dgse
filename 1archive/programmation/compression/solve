@@ -1,0 +1,3 @@
+# in zsh, move the file to /tmp/out, go there then :
+#
+while true; files=$(echo *); do aunpack $(echo *(n) | cut -d" " -f1) && rm -rf $files || break;done
